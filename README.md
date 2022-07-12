@@ -16,3 +16,5 @@
 ***server folder***
     
     yarn add cors crypto-js dotenv express-validator jsonwebtoken mongoose nodemon
+
+***Rename the ```.env.example``` in the server to ```.env```***
